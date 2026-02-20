@@ -1,4 +1,4 @@
-<h1>Hi, I'm Russell, an <a href="www.linkedin.com/in/russell-dorsey">IT Professional</a>☺</h1>
+<h1>Hi, I'm Russell, an <a href="https://www.linkedin.com/in/russell-dorsey">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -17,5 +17,5 @@
 [<img align="left" alt="Russell | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/Josh
-[linkedin]: www.linkedin.com/in/russell-dorsey
+[linkedin]: https://www.linkedin.com/in/russell-dorsey
 [instagram]: https://www.instagram.com/Josh
