@@ -1,4 +1,4 @@
-<h2>👋 Hello, I'm Russell</h2>
+<h2>👋 Hello, I'm Russell Dorsey</h2>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=IT+Support+Professional;System+Administration;Networking+%7C+Troubleshooting;Always+Learning+New+Technologies)
 
