@@ -1,6 +1,6 @@
-<h1>Hi, I'm Russell, an <a href="https://www.linkedin.com/in/russell-dorsey">IT Professional</a>☺</h1>
+<h2>👋 Hello, I'm Russell</h2>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=IT+Support+Professional;System+Administration;Networking+%7C+Troubleshooting;Always+Learning+New+Technologies)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/russelldorsey/osticket-prereqs)
