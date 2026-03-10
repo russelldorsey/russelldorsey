@@ -28,4 +28,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Russell%20Dorsey-blue?logo=linkedin)](https://www.linkedin.com/in/russell-dorsey)
 
 [linkedin]: https://www.linkedin.com/in/russell-dorsey
-
+Email: cadeusus@proton.me
