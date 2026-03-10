@@ -8,6 +8,11 @@
 - ☁️ Learning Azure and virtualization
 - 📍 Based in Oregon, USA
 
+## Currently Learning
+- Network Security
+- Active Directory
+- Cloud Infrastructure
+
 ## Projects
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/russelldorsey/azure-network-protocols)
