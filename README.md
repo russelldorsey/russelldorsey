@@ -4,7 +4,7 @@
 
 ## About Me
 - 🎓 Studying Information Technology
-- 🔧 Interested in Networking, System Administration, and Cybersecurity
+- 🔧 Interested in System Administration, Networking, and Cybersecurity
 - ☁️ Learning Azure and Virtualization
 - 📍 Based in Oregon, USA
 
