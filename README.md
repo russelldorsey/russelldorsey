@@ -2,6 +2,13 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=IT+Support+Professional;System+Administration;Networking+%7C+Troubleshooting;Always+Learning+New+Technologies)
 
+## About Me
+- 🎓 Studying Information Technology
+- 🔧 Interested in Networking, System Administration, and Cybersecurity
+- ☁️ Learning Azure and virtualization
+- 📍 Based in Oregon, USA
+
+## Projects
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/russelldorsey/azure-network-protocols)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/russelldorsey/configure-ad)
