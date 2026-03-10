@@ -1,6 +1,6 @@
 <h2>👋 Hello, I'm Russell an IT Professional 👨‍💻</h2>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=IT+Support+Professional;System+Administration;Networking+%7C+Troubleshooting;Always+Learning+New+Technologies)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=IT+Support+Professional;System+Administration;Networking+%7C+Troubleshooting;Cybersecurity+%7C+Security+Awareness;Always+Learning+New+Technologies)
 
 ## About Me
 - 🎓 Studying Information Technology
